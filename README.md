@@ -34,7 +34,19 @@
 
 ###
 
-<h2 align="left">- By day, I’m an office worker.<br>- By night, I’m a game developer. 🪐</h2>
+<p align="left">By day, I’m an office worker.<br>After hours, I transform into a game developer lost in the realm of the Unreal Engine 5. 🪐<br>I build worlds, debug universes and occasionally forget to sleep.<br>Coding isn’t just my job — it’s my escape, my experiment, and my playground.</p>
+
+###
+
+<h1 align="left">🔥   My Stats :</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=water-beetle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=water-beetle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=water-beetle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -56,14 +68,6 @@
 
 ###
 
-<h1 align="left">🔥   My Stats :</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=water-beetle&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=water-beetle&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=water-beetle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<p align="left">- Game Engine: Unreal Engine 5 (C++ / Blueprints)<br>- Mesh/Rendering: FDynamicMesh3, custom mesh generation, voxel systems<br>- Tools & Editor: Visual Studio, Rider, WPF, VSIX extensions<br>- Scripting & Automation: Python, C#, PowerShell<br>- Workflow: Git/GitHub, CI builds, asset pipelines</p>
 
 ###
