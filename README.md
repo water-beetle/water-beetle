@@ -1,11 +1,9 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=120&section=header&reversal=false&text=%F0%9F%92%BB%20Today%E2%80%99s%20Work:%20One%20Semicolon;&fontSize=50&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
+<h1 align="center">💻Today’s work: one semicolon.</h1>
 
 ###
 
 <div align="center">
-  <img height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR5cnpzZmszNXVza2VzODVieTlpdndmeTk0Z29tcjFpcGF3NTh1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR5cnpzZmszNXVza2VzODVieTlpdndmeTk0Z29tcjFpcGF3NTh1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 </div>
 
 ###
