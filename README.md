@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🤖 "Error messages outnumber my friends."<br>☕ "If it compiles, it’s a lucky day."<br>💥 "Fixed one bug, created three new ones."</h3>
+<h3 align="center">🤖 "Error messages outnumber my friends."<br>☕ "If it compiles, it’s a lucky day."<br>💥 "Fixed one bug, created three new ones."</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h1 align="left">🔥   My Stats :</h1>
 
 ###
 
